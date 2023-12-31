@@ -1,0 +1,21 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+.header-logo {
+  color: #312b2b; /* потрібно змінити колір на білий*/
+  font-family: Inter;
+  font-size: 28px;
+  font-weight: 400;
+}
+.header-menu-logo {
+  color: #2c2828; /* потрібно змінити колір на білий*/
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 400;
+}
