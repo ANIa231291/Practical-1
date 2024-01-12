@@ -7,15 +7,74 @@ a {
 ul {
   list-style: none;
 }
+/*------------------HEADER------------------*/
+
+.header {
+}
 .header-logo {
   color: #312b2b; /* потрібно змінити колір на білий*/
   font-family: Inter;
   font-size: 28px;
   font-weight: 400;
 }
+.header-navigation {
+}
+.header-menu-list {
+}
+.header-menu-item {
+}
 .header-menu-logo {
   color: #2c2828; /* потрібно змінити колір на білий*/
   font-family: Inter;
   font-size: 12px;
   font-weight: 400;
+}
+/*--------------------- SECTION 1 -----------------*/
+
+.hero-features {
+}
+.text-features {
+}
+.features-list {
+}
+.features-item {
+}
+.hero-item {
+}
+/*--------------------SECTION 2 -----------------------*/
+.section-video {
+}
+.hero-video {
+}
+.text-video {
+}
+
+/*--------------------SECTION 3 -----------------------*/
+.section-team {
+}
+.hero-section-team {
+}
+.text-team {
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.hero-text-item {
+}
+.text-item {
+}
+/*------------------- SECTION 4 -------------------------*/
+
+.section-costumers {
+}
+.hero-costumers {
+}
+.costumers-img {
+}
+.hero-costumer-img {
+}
+.text-costumers {
 }
